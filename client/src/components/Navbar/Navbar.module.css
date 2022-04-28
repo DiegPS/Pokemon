@@ -1,0 +1,21 @@
+.nav {
+  background-color: #161925;
+  display: flex;
+  justify-content: space-around;
+  color: goldenrod;
+  margin: 0;
+}
+
+.title {
+  cursor: pointer;
+  color: goldenrod;
+}
+
+a {
+  text-decoration: none;
+  color: goldenrod;
+}
+
+.form {
+  cursor: pointer;
+}

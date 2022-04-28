@@ -1,0 +1,12 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-transform: capitalize;
+}
+
+.img {
+  background-color: goldenrod;
+  padding: 20px;
+  border-radius: 49px;
+}
